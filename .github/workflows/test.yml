@@ -8,8 +8,8 @@ on:
 
 jobs:
 
-  build:
-    name: Build
+  test:
+    name: Run All Tests
     runs-on: ubuntu-latest
     steps:
 
@@ -21,9 +21,6 @@ jobs:
 
     - name: Check out code into the Go module directory
       uses: actions/checkout@v2
-
-    - name: Build
-      run: go build -v .
     
-    - name: Test
+    - name: Test with coverage
       run: go test ./... -cover
