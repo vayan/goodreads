@@ -1,0 +1,17 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[]]></key>
+        <method><![CDATA[search_index]]></method>
+    </Request>
+    <search>
+        <query><![CDATA[random stuff]]></query>
+        <results-start>1</results-start>
+        <results-end>0</results-end>
+        <total-results>0</total-results>
+        <source>Goodreads</source>
+        <query-time-seconds>0.04</query-time-seconds>
+        <results>
+        </results>
+    </search>
+</GoodreadsResponse>

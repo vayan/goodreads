@@ -1,0 +1,105 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[]]></key>
+        <method><![CDATA[series_show]]></method>
+    </Request>
+    <series>
+        <id>193556</id>
+        <title><![CDATA[
+    The Band
+]]></title>
+        <description><![CDATA[
+        blabla
+        blabla
+]]></description>
+        <note><![CDATA[
+]]></note>
+        <series_works_count>3</series_works_count>
+        <primary_work_count>3</primary_work_count>
+        <numbered>true</numbered>
+        <series_works>
+            <series_work>
+                <id>988716</id>
+                <user_position>1</user_position>
+                <work>
+                    <id>51246585</id>
+                    <uri>kca://work/amzn1.gr.work.v1.HIjgXIUuFYPR2KUUf7DHcw</uri>
+                    <best_book>
+                        <id>30841984</id>
+                        <title>Kings of the Wyld (The Band, #1)</title>
+                        <author>
+                            <id>15388346</id>
+                            <name>Nicholas Eames</name>
+                        </author>
+                        <image_url><![CDATA[https://image.jpg]]></image_url>
+                    </best_book>
+                    <books_count>28</books_count>
+                    <original_publication_day>21</original_publication_day>
+                    <original_publication_month>2</original_publication_month>
+                    <original_publication_year>2017</original_publication_year>
+                    <original_title>Kings of the Wyld</original_title>
+                    <ratings_count>19708</ratings_count>
+                    <ratings_sum>85255</ratings_sum>
+                    <reviews_count>61104</reviews_count>
+                    <text_reviews_count>3247</text_reviews_count>
+                    <average_rating/>
+                </work>
+            </series_work>
+            <series_work>
+                <id>1055937</id>
+                <user_position>2</user_position>
+                <work>
+                    <id>56340013</id>
+                    <uri>kca://work/amzn1.gr.work.v1.cnkRUlvLeUCr4NL84fmKWg</uri>
+                    <best_book>
+                        <id>35052265</id>
+                        <title>Bloody Rose (The Band, #2)</title>
+                        <author>
+                            <id>15388346</id>
+                            <name>Nicholas Eames</name>
+                        </author>
+                        <image_url><![CDATA[https://image2.jpg]]></image_url>
+                    </best_book>
+                    <books_count>17</books_count>
+                    <original_publication_day>28</original_publication_day>
+                    <original_publication_month>8</original_publication_month>
+                    <original_publication_year>2018</original_publication_year>
+                    <original_title>Bloody Rose</original_title>
+                    <ratings_count>7692</ratings_count>
+                    <ratings_sum>32709</ratings_sum>
+                    <reviews_count>22046</reviews_count>
+                    <text_reviews_count>1135</text_reviews_count>
+                    <average_rating/>
+                </work>
+            </series_work>
+            <series_work>
+                <id>1055938</id>
+                <user_position>3</user_position>
+                <work>
+                    <id>52587935</id>
+                    <uri>kca://work/amzn1.gr.work.v1.7ZxQyQCdnEfCex2Ldb2vwg</uri>
+                    <best_book>
+                        <id>31932963</id>
+                        <title>Outlaw Empire (The Band, #3)</title>
+                        <author>
+                            <id>15388346</id>
+                            <name>Nicholas Eames</name>
+                        </author>
+                        <image_url><![CDATA[https://image3.png]]></image_url>
+                    </best_book>
+                    <books_count>2</books_count>
+                    <original_publication_day/>
+                    <original_publication_month/>
+                    <original_publication_year/>
+                    <original_title>Outlaw Empire</original_title>
+                    <ratings_count>18</ratings_count>
+                    <ratings_sum>63</ratings_sum>
+                    <reviews_count>2606</reviews_count>
+                    <text_reviews_count>7</text_reviews_count>
+                    <average_rating/>
+                </work>
+            </series_work>
+        </series_works>
+    </series>
+</GoodreadsResponse>
