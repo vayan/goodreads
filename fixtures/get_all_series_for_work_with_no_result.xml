@@ -1,0 +1,10 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[]]></key>
+        <method><![CDATA[series_work]]></method>
+    </Request>
+    <series_works>
+
+    </series_works>
+</GoodreadsResponse>

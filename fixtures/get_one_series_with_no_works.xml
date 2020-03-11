@@ -1,0 +1,24 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[]]></key>
+        <method><![CDATA[series_show]]></method>
+    </Request>
+    <series>
+        <id>193556</id>
+        <title><![CDATA[
+    The Band
+]]></title>
+        <description><![CDATA[
+    blabla
+    blabla
+]]></description>
+        <note><![CDATA[
+]]></note>
+        <series_works_count>3</series_works_count>
+        <primary_work_count>3</primary_work_count>
+        <numbered>true</numbered>
+        <series_works>
+        </series_works>
+    </series>
+</GoodreadsResponse>

@@ -1,0 +1,28 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[]]></key>
+        <method><![CDATA[series_work]]></method>
+    </Request>
+    <series_works>
+        <series_work>
+            <id>240773</id>
+            <user_position>1</user_position>
+            <series>
+                <id>57883</id>
+                <title><![CDATA[
+    Naruto
+]]></title>
+                <description><![CDATA[
+    Naruto is a manga series about  Uzumaki Naruto, a young ninja.
+]]></description>
+                <note><![CDATA[
+    Please only add the primary manga volumes to this list. Anything else, including omnibus editions and box-sets, WILL be removed.
+]]></note>
+                <series_works_count>72</series_works_count>
+                <primary_work_count>72</primary_work_count>
+                <numbered>true</numbered>
+            </series>
+        </series_work>
+    </series_works>
+</GoodreadsResponse>

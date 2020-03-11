@@ -1,0 +1,37 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[]]></key>
+        <method><![CDATA[search_index]]></method>
+    </Request>
+    <search>
+        <query><![CDATA[hairy pooter]]></query>
+        <results-start>1</results-start>
+        <results-end>1</results-end>
+        <total-results>1</total-results>
+        <source>Goodreads</source>
+        <query-time-seconds>0.10</query-time-seconds>
+        <results>
+            <work>
+                <id type="integer">1111</id>
+                <books_count type="integer">11</books_count>
+                <ratings_count type="integer">0</ratings_count>
+                <text_reviews_count type="integer">11</text_reviews_count>
+                <original_publication_year type="integer">2018</original_publication_year>
+                <original_publication_month type="integer">8</original_publication_month>
+                <original_publication_day type="integer">28</original_publication_day>
+                <average_rating>4.25</average_rating>
+                <best_book type="Book">
+                    <id type="integer">35052265</id>
+                    <title>Harry Pooter and The Funny Guy</title>
+                    <author>
+                        <id type="integer">15388346</id>
+                        <name>John</name>
+                    </author>
+                    <image_url>https://big.jpg</image_url>
+                    <small_image_url>https://small.jpg</small_image_url>
+                </best_book>
+            </work>
+        </results>
+    </search>
+</GoodreadsResponse>
