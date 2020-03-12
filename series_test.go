@@ -83,8 +83,11 @@ func TestClient_GetOneSeries(t *testing.T) {
 	var ctx = context.TODO()
 
 	t.Run("it decodes the series response into the given struct", func(t *testing.T) {
+		var url string
+
 		ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 			content, _ := ioutil.ReadFile("fixtures/get_one_series_with_some_works.xml")
+			url = r.URL.String()
 			_, _ = fmt.Fprintln(w, string(content))
 		}))
 		defer ts.Close()
@@ -95,9 +98,10 @@ func TestClient_GetOneSeries(t *testing.T) {
 			http:   ts.Client(),
 		}
 
-		works, err := client.GetOneSeries(ctx, 111, 0)
+		works, err := client.GetOneSeries(ctx, 111, 1)
 
 		assert.NoError(t, err)
+		assert.Equal(t, "//series/show/111?format=&key=123&page=1", url)
 		assert.Equal(t, SeriesWithWorks{
 			Series{
 				ID:               193556,
