@@ -21,7 +21,7 @@ You need an API Key from Goodreads, you can get one here: https://www.goodreads.
 
 ## Setup the client
 
-``golang 
+``
 gr := goodreads.NewClient("secretapikey11")
 ``
 
@@ -29,7 +29,7 @@ gr := goodreads.NewClient("secretapikey11")
 
 ### Search
 
-```golang 
+```
 gr.Search(ctx, "harry potter", 1)
 ```
 
