@@ -40,8 +40,8 @@ gr.Search(ctx, "harry potter", 1)
 From https://www.goodreads.com/api
 
 - [ ] auth.user   —   Get id of user who authorized OAuth.
-- [ ] author.books   —   Paginate an author's books.
-- [ ] author.show   —   Get info about an author by id.
+- [x] author.books   —   Paginate an author's books.
+- [x] author.show   —   Get info about an author by id.
 - [ ] author_following.create   —   Follow an author.
 - [ ] author_following.destroy   —   Unfollow an author.
 - [ ] author_following.show   —   Show author following information.

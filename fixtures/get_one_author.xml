@@ -1,0 +1,358 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[kXEL7VkBKoVJ8tDD4ij5Pg]]></key>
+        <method><![CDATA[author_show]]></method>
+    </Request>
+    <author>
+        <id>15388346</id>
+        <name>Nicholas Eames</name>
+        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+        <fans_count type="integer">3024</fans_count>
+        <author_followers_count type="integer">3024</author_followers_count>
+        <large_image_url><![CDATA[https://images.gr-assets.com/authors/1468878466p7/15388346.jpg]]></large_image_url>
+        <image_url><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+        <small_image_url><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+        <about/>
+        <influences/>
+        <works_count>8</works_count>
+        <gender>male</gender>
+        <hometown/>
+        <born_at/>
+        <died_at/>
+        <goodreads_author>true</goodreads_author>
+        <user>
+            <id type="integer">55707785</id>
+        </user>
+        <books>
+            <book>
+                <id type="integer">30841984</id>
+                <isbn>0316362476</isbn>
+                <isbn13>9780316362474</isbn13>
+                <text_reviews_count type="integer">2640</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v1.qjNM_y039VamS7ufKpdPpA</uri>
+                <title>Kings of the Wyld (The Band, #1)</title>
+                <title_without_series>Kings of the Wyld</title_without_series>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477027207l/30841984._SX98_.jpg</image_url>
+                <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477027207l/30841984._SY75_.jpg</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/30841984-kings-of-the-wyld</link>
+                <num_pages>502</num_pages>
+                <format>Paperback</format>
+                <edition_information/>
+                <publisher>Orbit</publisher>
+                <publication_day>21</publication_day>
+                <publication_year>2017</publication_year>
+                <publication_month>2</publication_month>
+                <average_rating>4.32</average_rating>
+                <ratings_count>20119</ratings_count>
+                <description>Clay Cooper and his band were once the best of the best -- the meanest, dirtiest, most feared crew of mercenaries this side of the Heartwyld. &lt;br /&gt;&lt;br /&gt;Their glory days long past, the mercs have grown apart and grown old, fat, drunk - or a combination of the three. Then an ex-bandmate turns up at Clay's door with a plea for help. His daughter Rose is trapped in a city besieged by an enemy one hundred thousand strong and hungry for blood. Rescuing Rose is the kind of mission that only the very brave or the very stupid would sign up for.&lt;br /&gt;&lt;br /&gt;It's time to get the band back together for one last tour across the Wyld.</description>
+                <authors>
+                    <author>
+                        <id>15388346</id>
+                        <name>Nicholas Eames</name>
+                        <role/>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+                        <average_rating>4.30</average_rating>
+                        <ratings_count>28132</ratings_count>
+                        <text_reviews_count>4530</text_reviews_count>
+                    </author>
+                </authors>
+                <published>2017</published>
+                <work>
+                    <id>51246585</id>
+                    <uri>kca://work/amzn1.gr.work.v1.HIjgXIUuFYPR2KUUf7DHcw</uri>
+                </work>
+            </book>
+            <book>
+                <id type="integer">35052265</id>
+                <isbn>0356509044</isbn>
+                <isbn13>9780356509044</isbn13>
+                <text_reviews_count type="integer">956</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v1.LxEp43w4_vyTJfDQ5v6aYg</uri>
+                <title>Bloody Rose (The Band, #2)</title>
+                <title_without_series>Bloody Rose</title_without_series>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509483649l/35052265._SX98_.jpg</image_url>
+                <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509483649l/35052265._SY75_.jpg</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/35052265-bloody-rose</link>
+                <num_pages>544</num_pages>
+                <format>Paperback</format>
+                <edition_information/>
+                <publisher>Orbit</publisher>
+                <publication_day>30</publication_day>
+                <publication_year>2018</publication_year>
+                <publication_month>8</publication_month>
+                <average_rating>4.25</average_rating>
+                <ratings_count>7835</ratings_count>
+                <description>Live fast, die young.&lt;br /&gt;&lt;br /&gt;Tam Hashford is tired of working at her local pub, slinging drinks for world-famous mercenaries and listening to the bards sing of adventure and glory in the world beyond her sleepy hometown.&lt;br /&gt;&lt;br /&gt;When the biggest mercenary band of all rolls into town, led by the infamous Bloody Rose, Tam jumps at the chance to sign on as their bard. It's adventure she wants - and adventure she gets as the crew embark on a quest that will end in one of two ways: glory or death.&lt;br /&gt;&lt;br /&gt;It's time to take a walk on the wyld side.</description>
+                <authors>
+                    <author>
+                        <id>15388346</id>
+                        <name>Nicholas Eames</name>
+                        <role/>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+                        <average_rating>4.30</average_rating>
+                        <ratings_count>28132</ratings_count>
+                        <text_reviews_count>4530</text_reviews_count>
+                    </author>
+                </authors>
+                <published>2018</published>
+                <work>
+                    <id>56340013</id>
+                    <uri>kca://work/amzn1.gr.work.v1.cnkRUlvLeUCr4NL84fmKWg</uri>
+                </work>
+            </book>
+            <book>
+                <id type="integer">31932963</id>
+                <isbn>0316362559</isbn>
+                <isbn13>9780316362559</isbn13>
+                <text_reviews_count type="integer">7</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v1._r0x75BJQxceifk2k-uB1w</uri>
+                <title>Outlaw Empire (The Band, #3)</title>
+                <title_without_series>Outlaw Empire</title_without_series>
+                <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/31932963-outlaw-empire</link>
+                <num_pages>400</num_pages>
+                <format>Paperback</format>
+                <edition_information/>
+                <publisher>Orbit</publisher>
+                <publication_day/>
+                <publication_year/>
+                <publication_month/>
+                <average_rating>3.50</average_rating>
+                <ratings_count>18</ratings_count>
+                <description/>
+                <authors>
+                    <author>
+                        <id>15388346</id>
+                        <name>Nicholas Eames</name>
+                        <role/>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+                        <average_rating>4.30</average_rating>
+                        <ratings_count>28132</ratings_count>
+                        <text_reviews_count>4530</text_reviews_count>
+                    </author>
+                </authors>
+                <published/>
+                <work>
+                    <id>52587935</id>
+                    <uri>kca://work/amzn1.gr.work.v1.7ZxQyQCdnEfCex2Ldb2vwg</uri>
+                </work>
+            </book>
+            <book>
+                <id type="integer">52772155</id>
+                <isbn nil="true"/>
+                <isbn13 nil="true"/>
+                <text_reviews_count type="integer">0</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v3.8KFAt1iEFyXfrpZr</uri>
+                <title>The Band (2 Book Series)</title>
+                <title_without_series>The Band</title_without_series>
+                <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/52772155-the-band</link>
+                <num_pages/>
+                <format/>
+                <edition_information/>
+                <publisher/>
+                <publication_day/>
+                <publication_year/>
+                <publication_month/>
+                <average_rating>4.40</average_rating>
+                <ratings_count>5</ratings_count>
+                <description/>
+                <authors>
+                    <author>
+                        <id>15388346</id>
+                        <name>Nicholas Eames</name>
+                        <role/>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+                        <average_rating>4.30</average_rating>
+                        <ratings_count>28132</ratings_count>
+                        <text_reviews_count>4530</text_reviews_count>
+                    </author>
+                </authors>
+                <published/>
+                <work>
+                    <id>71315571</id>
+                    <uri>kca://work/amzn1.gr.work.v1.bRaX3-Rp__Tfhy63qFs0NQ</uri>
+                </work>
+            </book>
+            <book>
+                <id type="integer">42304561</id>
+                <isbn nil="true"/>
+                <isbn13 nil="true"/>
+                <text_reviews_count type="integer">0</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v1.CCzxYE9IRlTRZAqYtg4m9w</uri>
+                <title>Sacred Semantics</title>
+                <title_without_series>Sacred Semantics</title_without_series>
+                <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/42304561-sacred-semantics</link>
+                <num_pages/>
+                <format>Paperback</format>
+                <edition_information/>
+                <publisher>Booknest</publisher>
+                <publication_day/>
+                <publication_year/>
+                <publication_month/>
+                <average_rating>2.83</average_rating>
+                <ratings_count>6</ratings_count>
+                <description/>
+                <authors>
+                    <author>
+                        <id>15388346</id>
+                        <name>Nicholas Eames</name>
+                        <role/>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+                        <average_rating>4.30</average_rating>
+                        <ratings_count>28132</ratings_count>
+                        <text_reviews_count>4530</text_reviews_count>
+                    </author>
+                </authors>
+                <published/>
+                <work>
+                    <id>65959979</id>
+                    <uri>kca://work/amzn1.gr.work.v1.ZcQ43bNTUP4kUgniiDv2mw</uri>
+                </work>
+            </book>
+            <book>
+                <id type="integer">52425579</id>
+                <isbn nil="true"/>
+                <isbn13>9791028103958</isbn13>
+                <text_reviews_count type="integer">0</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v3.ICYdK8J410BG0iP1</uri>
+                <title>Wyld, T2 : Rose de Sang (Wyld (2))</title>
+                <title_without_series>Wyld, T2 : Rose de Sang (Wyld</title_without_series>
+                <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/52425579-wyld-t2</link>
+                <num_pages/>
+                <format/>
+                <edition_information/>
+                <publisher/>
+                <publication_day/>
+                <publication_year/>
+                <publication_month/>
+                <average_rating>0.0</average_rating>
+                <ratings_count>0</ratings_count>
+                <description/>
+                <authors>
+                    <author>
+                        <id>15388346</id>
+                        <name>Nicholas Eames</name>
+                        <role/>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+                        <average_rating>4.30</average_rating>
+                        <ratings_count>28132</ratings_count>
+                        <text_reviews_count>4530</text_reviews_count>
+                    </author>
+                </authors>
+                <published/>
+                <work>
+                    <id>77813735</id>
+                    <uri>kca://work/amzn1.gr.work.v3.-eXp6caIcFJ2GCBF</uri>
+                </work>
+            </book>
+            <book>
+                <id type="integer">36580177</id>
+                <isbn>1983961302</isbn>
+                <isbn13>9781983961304</isbn13>
+                <text_reviews_count type="integer">62</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v1.RhiHKbJLQuyF4Wv2MFOHsQ</uri>
+                <title>Art of War</title>
+                <title_without_series>Art of War</title_without_series>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513686606l/36580177._SX98_.jpg</image_url>
+                <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513686606l/36580177._SY75_.jpg</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/36580177-art-of-war</link>
+                <num_pages>502</num_pages>
+                <format>Paperback</format>
+                <edition_information/>
+                <publisher>CreateSpace</publisher>
+                <publication_day>13</publication_day>
+                <publication_year>2018</publication_year>
+                <publication_month>2</publication_month>
+                <average_rating>3.99</average_rating>
+                <ratings_count>247</ratings_count>
+                <description>Charity Anthology: All proceeds going to MSF (Doctors Without Borders).&lt;br /&gt;&lt;br /&gt;“War, my friend, is a thing of beauty.” &lt;br /&gt;&lt;br /&gt;How do you get forty fantasy authors to contribute short stories for a war-themed anthology without paying them? It sounds as if there should be a good punchline to that, but all Petros Triantafyllou did was twist the moral thumbscrews and tell them all the profits would go to Doctors Without Borders, a charity that works tirelessly across the world to alleviate the effects of conflict, sickness and poverty.&lt;br /&gt;&lt;br /&gt;So, with clear consciences, several busloads of excellent and acclaimed fantasy authors have applied themselves to the task of penning a veritable mountain of words on the subject of The Art of War, expect bloodshed, gore, pathos, insight, passion, and laughs. Maybe even a wombat. Who knows. Anyway, as the original blurb said: “It’s good. Buy it.”&lt;br /&gt;-Mark Lawrence &lt;br /&gt;&lt;br /&gt;Print version includes forty black &amp;amp; white interior art pieces.&lt;br /&gt;&lt;br /&gt;Contents&lt;br /&gt;Interior artwork by Jason Deem&lt;br /&gt;Foreword / Brian D. Anderson&lt;br /&gt;The Breaking of the Sky / Ed McDonald&lt;br /&gt;The Last Arrow (Sorcery Ascendant Sequence) / Mitchell Hogan&lt;br /&gt;Dear Menelaus / Laura M. Hughes&lt;br /&gt;Warborn / C.T. Phipps&lt;br /&gt;The Greatest Battle / John Gwynne&lt;br /&gt;This War of Ours / Timandra Whitecastle&lt;br /&gt;Shadows in the Mist / Sue Tingey&lt;br /&gt;The Art: Post War / R. J. Barker&lt;br /&gt;The Fox and the Bowman / Sebastien de Castell&lt;br /&gt;Arrow's Wrath / Charles F. Bond&lt;br /&gt;Hard Lessons / Michael R. Miller&lt;br /&gt;A Battle for Elucame: Leah / R. B. Watkinson&lt;br /&gt;The Revolution Changed Everyone / D. Thourson Palmer&lt;br /&gt;Misplaced Heroism / Andrew Rowe&lt;br /&gt;Violet / Mazarkis Williams&lt;br /&gt;The Two Faces of War / Rob J. Hayes&lt;br /&gt;Grannit / J.P. Ashman&lt;br /&gt;Asalantir Forever / Steven Poore&lt;br /&gt;Tower of the Last / Steven Kelliher&lt;br /&gt;The Waving of the Flag / Thomas R. Gaskin&lt;br /&gt;The Art of War / Brian Staveley&lt;br /&gt;Hero of the Day / Nathan T. Boyce&lt;br /&gt;Sacred Semantics / Nicholas Eames&lt;br /&gt;The War God's Axe / Anne Nicholls&lt;br /&gt;The Feather and the Paw / Benedict Patrick&lt;br /&gt;Until the Light Had Faded / Graham Austin-King&lt;br /&gt;Under the Queen's Throne / Ed Greenwood&lt;br /&gt;Good Steel / Zachary Barnes&lt;br /&gt;The Cost of Power / Ulff Lehmann&lt;br /&gt;The Undying Lands / Michael R. Fletcher&lt;br /&gt;The Fall of Tereen / Anna Smith Spark&lt;br /&gt;Valkyrie Rain / Dyrk Ashton&lt;br /&gt;Chattels / Stan Nicholls&lt;br /&gt;The Storm / Miles Cameron&lt;br /&gt;Shortblade / Brandon Draga&lt;br /&gt;Rendered Chaos / D. M. Murray&lt;br /&gt;The Best and Bravest / M. L. Spencer&lt;br /&gt;Exhibition / Ben Galley&lt;br /&gt;Flesh and Coin / Anna Stephens&lt;br /&gt;The Hero of Aral Pass (The Broken Empire Universe) / Mark Lawrence</description>
+                <authors>
+                    <author>
+                        <id>17320638</id>
+                        <name>Petros Triantafyllou</name>
+                        <role>Editor</role>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1510753202p5/17320638.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1510753202p2/17320638.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/17320638.Petros_Triantafyllou]]></link>
+                        <average_rating>3.99</average_rating>
+                        <ratings_count>246</ratings_count>
+                        <text_reviews_count>83</text_reviews_count>
+                    </author>
+                </authors>
+                <published>2018</published>
+                <work>
+                    <id>58324468</id>
+                    <uri>kca://work/amzn1.gr.work.v1.rZCWVaQgg36t2WaNUENdBw</uri>
+                </work>
+            </book>
+            <book>
+                <id type="integer">36273149</id>
+                <isbn nil="true"/>
+                <isbn13>9780648178408</isbn13>
+                <text_reviews_count type="integer">1</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v1.RtuMfwUYiz-bivKK3OGC4g</uri>
+                <title>Grimdark Magazine Issue #13</title>
+                <title_without_series>Grimdark Magazine Issue #13</title_without_series>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505910031l/36273149._SX98_.jpg</image_url>
+                <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505910031l/36273149._SX50_.jpg</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/36273149-grimdark-magazine-issue-13</link>
+                <num_pages/>
+                <format>Kindle Edition</format>
+                <edition_information/>
+                <publisher>Grimdark Magazine</publisher>
+                <publication_day>1</publication_day>
+                <publication_year>2017</publication_year>
+                <publication_month>10</publication_month>
+                <average_rating>4.00</average_rating>
+                <ratings_count>15</ratings_count>
+                <description>Grimdark Magazine presents the darker, grittier side of fantasy and science fiction. Each quarterly issue features established and new authors to take you through their hard-bitten worlds alongside articles, reviews and interviews. Our stories are grim, our worlds are dark and our morally grey protagonists and anti-heroes light the way with bloody stories of war, betrayal and action.&lt;br /&gt;&lt;br /&gt;FICTION:&lt;br /&gt;- Black City Shadow by Richard A. Knaak&lt;br /&gt;- The Heavens Fall by S. Andrew Swann&lt;br /&gt;- Like a Curse by David M. Hoenig&lt;br /&gt;&lt;br /&gt;NON-FICTION:&lt;br /&gt;- How to Land a Rockstar Agent in Ten Excruciating Steps by Deborah A. Wolf&lt;br /&gt;- Barbarians or Philosophers? by Matthew Cropley and Victoria Bridgland&lt;br /&gt;- An Interview with Nicholas Eames&lt;br /&gt;- An interview with Anna Stephens&lt;br /&gt;- Review: Kings of the Wyld by Nicholas Eames&lt;br /&gt;- Review: Under the Pendulum Sun by Jeannette Ng</description>
+                <authors>
+                    <author>
+                        <id>14275500</id>
+                        <name>Adrian   Collins</name>
+                        <role>Editor</role>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1441914343p5/14275500.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1441914343p2/14275500.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/14275500.Adrian_Collins]]></link>
+                        <average_rating>3.99</average_rating>
+                        <ratings_count>839</ratings_count>
+                        <text_reviews_count>142</text_reviews_count>
+                    </author>
+                </authors>
+                <published>2017</published>
+                <work>
+                    <id>57931016</id>
+                    <uri>kca://work/amzn1.gr.work.v1.MloluavrpDPM79J7e75SPw</uri>
+                </work>
+            </book>
+        </books>
+    </author>
+</GoodreadsResponse>
