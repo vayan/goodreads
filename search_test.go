@@ -40,7 +40,7 @@ func TestClient_Search(t *testing.T) {
 				ID:   15388346,
 				Name: "John",
 			},
-			PublicationDate: PublicationDate{
+			OriginalPublicationDate: OriginalPublicationDate{
 				Year:  2018,
 				Month: 8,
 				Day:   28,

@@ -1,0 +1,14 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[kXEL7VkBKoVJ8tDD4ij5Pg]]></key>
+        <method><![CDATA[author_list]]></method>
+    </Request>
+    <author>
+        <id>15388346</id>
+        <name>Nicholas Eames</name>
+        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+        <books start="0" end="0" total="8">
+        </books>
+    </author>
+</GoodreadsResponse>

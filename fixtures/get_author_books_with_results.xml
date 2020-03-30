@@ -1,0 +1,96 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[kXEL7VkBKoVJ8tDD4ij5Pg]]></key>
+        <method><![CDATA[author_list]]></method>
+    </Request>
+    <author>
+        <id>15388346</id>
+        <name>Nicholas Eames</name>
+        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+        <books start="1" end="8" total="8">
+            <book>
+                <id type="integer">30841984</id>
+                <isbn>0316362476</isbn>
+                <isbn13>9780316362474</isbn13>
+                <text_reviews_count type="integer">2640</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v1.qjNM_y039VamS7ufKpdPpA</uri>
+                <title>Kings of the Wyld (The Band, #1)</title>
+                <title_without_series>Kings of the Wyld</title_without_series>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477027207l/30841984._SX98_.jpg</image_url>
+                <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477027207l/30841984._SY75_.jpg</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/30841984-kings-of-the-wyld</link>
+                <num_pages>502</num_pages>
+                <format>Paperback</format>
+                <edition_information/>
+                <publisher>Orbit</publisher>
+                <publication_day>21</publication_day>
+                <publication_year>2017</publication_year>
+                <publication_month>2</publication_month>
+                <average_rating>4.32</average_rating>
+                <ratings_count>20119</ratings_count>
+                <description>good description</description>
+                <authors>
+                    <author>
+                        <id>15388346</id>
+                        <name>Nicholas Eames</name>
+                        <role/>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+                        <average_rating>4.30</average_rating>
+                        <ratings_count>28132</ratings_count>
+                        <text_reviews_count>4530</text_reviews_count>
+                    </author>
+                </authors>
+                <published>2017</published>
+                <work>
+                    <id>51246585</id>
+                    <uri>kca://work/amzn1.gr.work.v1.HIjgXIUuFYPR2KUUf7DHcw</uri>
+                </work>
+            </book>
+            <book>
+                <id type="integer">35052265</id>
+                <isbn>0356509044</isbn>
+                <isbn13>9780356509044</isbn13>
+                <text_reviews_count type="integer">956</text_reviews_count>
+                <uri>kca://book/amzn1.gr.book.v1.LxEp43w4_vyTJfDQ5v6aYg</uri>
+                <title>Bloody Rose (The Band, #2)</title>
+                <title_without_series>Bloody Rose</title_without_series>
+                <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509483649l/35052265._SX98_.jpg</image_url>
+                <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509483649l/35052265._SY75_.jpg</small_image_url>
+                <large_image_url/>
+                <link>https://www.goodreads.com/book/show/35052265-bloody-rose</link>
+                <num_pages>544</num_pages>
+                <format>Paperback</format>
+                <edition_information/>
+                <publisher>Orbit</publisher>
+                <publication_day>30</publication_day>
+                <publication_year>2018</publication_year>
+                <publication_month>8</publication_month>
+                <average_rating>4.25</average_rating>
+                <ratings_count>7835</ratings_count>
+                <description>good description 2</description>
+                <authors>
+                    <author>
+                        <id>15388346</id>
+                        <name>Nicholas Eames</name>
+                        <role/>
+                        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p5/15388346.jpg]]></image_url>
+                        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1468878466p2/15388346.jpg]]></small_image_url>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15388346.Nicholas_Eames]]></link>
+                        <average_rating>4.30</average_rating>
+                        <ratings_count>28132</ratings_count>
+                        <text_reviews_count>4530</text_reviews_count>
+                    </author>
+                </authors>
+                <published>2018</published>
+                <work>
+                    <id>56340013</id>
+                    <uri>kca://work/amzn1.gr.work.v1.cnkRUlvLeUCr4NL84fmKWg</uri>
+                </work>
+            </book>
+        </books>
+    </author>
+</GoodreadsResponse>

@@ -119,7 +119,7 @@ func TestClient_GetOneSeries(t *testing.T) {
 						ID:   15388346,
 						Name: "Nicholas Eames",
 					},
-					PublicationDate: PublicationDate{
+					OriginalPublicationDate: OriginalPublicationDate{
 						Year:  2017,
 						Month: 2,
 						Day:   21,
@@ -135,7 +135,7 @@ func TestClient_GetOneSeries(t *testing.T) {
 						ID:   15388346,
 						Name: "Nicholas Eames",
 					},
-					PublicationDate: PublicationDate{
+					OriginalPublicationDate: OriginalPublicationDate{
 						Year:  2018,
 						Month: 8,
 						Day:   28,
@@ -151,7 +151,7 @@ func TestClient_GetOneSeries(t *testing.T) {
 						ID:   15388346,
 						Name: "Nicholas Eames",
 					},
-					PublicationDate: PublicationDate{
+					OriginalPublicationDate: OriginalPublicationDate{
 						Year:  0,
 						Month: 0,
 						Day:   0,
