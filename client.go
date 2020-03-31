@@ -17,6 +17,7 @@ type Client interface {
 	GetOneSeries(ctx context.Context, serieID int, page int) (SeriesWithWorks, error)
 	GetOneAuthor(ctx context.Context, authorID int) (Author, error)
 	GetAuthorBooks(ctx context.Context, authorID int, page int) (AuthorWithBooks, error)
+	GetOneBook(ctx context.Context, bookID int) (Book, error)
 }
 
 // client is holding everything to interact with goodreads API
