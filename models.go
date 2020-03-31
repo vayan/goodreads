@@ -25,6 +25,7 @@ type Series struct {
 type Work struct {
 	WorkID        int    `xml:"id"`
 	BookID        int    `xml:"best_book>id"`
+	BestBookID    int    `xml:"best_book_id"`
 	Title         string `xml:"best_book>title"`
 	ImageURL      string `xml:"best_book>image_url"`
 	SmallImageURL string `xml:"best_book>small_image_url"`

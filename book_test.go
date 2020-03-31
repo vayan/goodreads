@@ -43,6 +43,7 @@ func TestClient_GetOneBook(t *testing.T) {
 			Work: Work{
 				WorkID:        2962492,
 				BookID:        0,
+				BestBookID:    862041,
 				Title:         "",
 				ImageURL:      "",
 				SmallImageURL: "",
