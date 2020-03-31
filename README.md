@@ -48,7 +48,7 @@ From https://www.goodreads.com/api
 - [ ] book.isbn_to_id   —   Get Goodreads book IDs given ISBNs.
 - [ ] book.id_to_work_id   —   Get Goodreads work IDs given Goodreads book IDs.
 - [ ] book.review_counts   —   Get review statistics given a list of ISBNs.
-- [ ] book.show   —   Get the reviews for a book given a Goodreads book id.
+- [x] book.show   —   Get the reviews for a book given a Goodreads book id.
 - [ ] book.show_by_isbn   —   Get the reviews for a book given an ISBN.
 - [ ] book.title   —   Get the reviews for a book given a title string.
 - [ ] comment.create   —   Create a comment.

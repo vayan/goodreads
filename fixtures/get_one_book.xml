@@ -1,0 +1,774 @@
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[kXEL7VkBKoVJ8tDD4ij5Pg]]></key>
+        <method><![CDATA[book_show]]></method>
+    </Request>
+    <book>
+        <id>862041</id>
+        <title><![CDATA[Harry Potter Series Box Set (Harry Potter, #1-7)]]></title>
+        <isbn><![CDATA[0545044251]]></isbn>
+        <isbn13><![CDATA[9780545044257]]></isbn13>
+        <asin><![CDATA[]]></asin>
+        <kindle_asin><![CDATA[]]></kindle_asin>
+        <marketplace_id><![CDATA[]]></marketplace_id>
+        <country_code><![CDATA[HK]]></country_code>
+        <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534298934l/862041._SX98_.jpg</image_url>
+        <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534298934l/862041._SX50_.jpg</small_image_url>
+        <publication_year>2007</publication_year>
+        <publication_month>10</publication_month>
+        <publication_day>1</publication_day>
+        <publisher>Arthur A. Levine Books</publisher>
+        <language_code>eng</language_code>
+        <is_ebook>false</is_ebook>
+        <description>foo bar</description>
+        <work>
+            <id type="integer">2962492</id>
+            <books_count type="integer">131</books_count>
+            <best_book_id type="integer">862041</best_book_id>
+            <reviews_count type="integer">316458</reviews_count>
+            <ratings_sum type="integer">1137835</ratings_sum>
+            <ratings_count type="integer">239917</ratings_count>
+            <text_reviews_count type="integer">7158</text_reviews_count>
+            <original_publication_year type="integer">2007</original_publication_year>
+            <original_publication_month type="integer">10</original_publication_month>
+            <original_publication_day type="integer">1</original_publication_day>
+            <original_title/>
+            <original_language_id type="integer" nil="true"/>
+            <media_type>book</media_type>
+            <rating_dist>5:193920|4:34869|3:8013|2:1605|1:1510|total:239917</rating_dist>
+            <desc_user_id type="integer">3276709</desc_user_id>
+            <default_chaptering_book_id type="integer" nil="true"/>
+            <default_description_language_code nil="true"/>
+            <work_uri>kca://work/amzn1.gr.work.v1.LxhLt2ofNzpl6IkVpaQGgg</work_uri>
+        </work>
+        <average_rating>4.74</average_rating>
+        <num_pages><![CDATA[4100]]></num_pages>
+        <format><![CDATA[]]></format>
+        <edition_information><![CDATA[]]></edition_information>
+        <ratings_count><![CDATA[215607]]></ratings_count>
+        <text_reviews_count><![CDATA[6454]]></text_reviews_count>
+        <url><![CDATA[https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set]]></url>
+        <link><![CDATA[https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set]]></link>
+        <authors>
+            <author>
+                <id>1077326</id>
+                <name>J.K. Rowling</name>
+                <role/>
+                <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]></image_url>
+                <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]></small_image_url>
+                <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+                <average_rating>4.46</average_rating>
+                <ratings_count>24142730</ratings_count>
+                <text_reviews_count>570000</text_reviews_count>
+            </author>
+        </authors>
+        <reviews_widget><![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set">Harry Potter Series Box Set Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0545044251&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]></reviews_widget>
+        <popular_shelves>
+            <shelf name="to-read" count="44129"/>
+            <shelf name="currently-reading" count="7056"/>
+            <shelf name="favorites" count="6058"/>
+            <shelf name="fantasy" count="3162"/>
+            <shelf name="young-adult" count="1061"/>
+            <shelf name="fiction" count="888"/>
+            <shelf name="favourites" count="692"/>
+            <shelf name="harry-potter" count="611"/>
+            <shelf name="owned" count="403"/>
+            <shelf name="ya" count="385"/>
+            <shelf name="series" count="377"/>
+            <shelf name="books-i-own" count="375"/>
+            <shelf name="magic" count="279"/>
+            <shelf name="all-time-favorites" count="272"/>
+            <shelf name="childrens" count="209"/>
+            <shelf name="adventure" count="207"/>
+            <shelf name="classics" count="193"/>
+            <shelf name="favorite-books" count="182"/>
+            <shelf name="children" count="178"/>
+            <shelf name="childhood" count="142"/>
+            <shelf name="favorite" count="119"/>
+            <shelf name="children-s" count="114"/>
+            <shelf name="owned-books" count="112"/>
+            <shelf name="re-read" count="109"/>
+            <shelf name="kids" count="109"/>
+            <shelf name="my-books" count="101"/>
+            <shelf name="sci-fi-fantasy" count="100"/>
+            <shelf name="j-k-rowling" count="94"/>
+            <shelf name="shelfari-favorites" count="91"/>
+            <shelf name="my-favorites" count="88"/>
+            <shelf name="children-s-books" count="82"/>
+            <shelf name="novels" count="80"/>
+            <shelf name="5-stars" count="79"/>
+            <shelf name="fantasy-sci-fi" count="75"/>
+            <shelf name="middle-grade" count="74"/>
+            <shelf name="faves" count="74"/>
+            <shelf name="all-time-favourites" count="74"/>
+            <shelf name="favs" count="73"/>
+            <shelf name="favourite" count="69"/>
+            <shelf name="to-buy" count="69"/>
+            <shelf name="audiobooks" count="67"/>
+            <shelf name="favourite-books" count="67"/>
+            <shelf name="default" count="66"/>
+            <shelf name="books" count="65"/>
+            <shelf name="witches" count="63"/>
+            <shelf name="my-library" count="59"/>
+            <shelf name="favorite-series" count="57"/>
+            <shelf name="paranormal" count="54"/>
+            <shelf name="childhood-favorites" count="53"/>
+            <shelf name="english" count="51"/>
+            <shelf name="ya-fantasy" count="50"/>
+            <shelf name="teen" count="49"/>
+            <shelf name="coming-of-age" count="48"/>
+            <shelf name="ya-fiction" count="48"/>
+            <shelf name="audiobook" count="47"/>
+            <shelf name="classic" count="47"/>
+            <shelf name="childrens-books" count="45"/>
+            <shelf name="reread" count="44"/>
+            <shelf name="i-own" count="43"/>
+            <shelf name="novel" count="43"/>
+            <shelf name="read-more-than-once" count="43"/>
+            <shelf name="contemporary" count="43"/>
+            <shelf name="wizards" count="42"/>
+            <shelf name="loved" count="42"/>
+            <shelf name="romance" count="42"/>
+            <shelf name="scifi-fantasy" count="42"/>
+            <shelf name="urban-fantasy" count="40"/>
+            <shelf name="absolute-favorites" count="40"/>
+            <shelf name="british" count="39"/>
+            <shelf name="own-it" count="38"/>
+            <shelf name="my-favorite-books" count="38"/>
+            <shelf name="wish-list" count="37"/>
+            <shelf name="mystery" count="37"/>
+            <shelf name="kids-books" count="37"/>
+            <shelf name="kindle" count="36"/>
+            <shelf name="all-time-faves" count="36"/>
+            <shelf name="to-re-read" count="35"/>
+            <shelf name="5-star" count="35"/>
+            <shelf name="youth" count="35"/>
+            <shelf name="supernatural" count="35"/>
+            <shelf name="literature" count="35"/>
+            <shelf name="50-books-to-read-before-you-die" count="34"/>
+            <shelf name="library" count="34"/>
+            <shelf name="bookshelf" count="33"/>
+            <shelf name="best-books-ever" count="33"/>
+            <shelf name="have" count="32"/>
+            <shelf name="my-bookshelf" count="31"/>
+            <shelf name="all-time-favs" count="31"/>
+            <shelf name="harry" count="30"/>
+            <shelf name="read-again" count="30"/>
+            <shelf name="favourite-series" count="29"/>
+            <shelf name="young-adult-fiction" count="29"/>
+            <shelf name="completed-series" count="28"/>
+            <shelf name="dragons" count="28"/>
+            <shelf name="friendship" count="28"/>
+            <shelf name="love" count="28"/>
+            <shelf name="action" count="28"/>
+            <shelf name="fantasy-fiction" count="28"/>
+            <shelf name="have-read" count="27"/>
+            <shelf name="fantasy-scifi" count="27"/>
+        </popular_shelves>
+        <book_links>
+            <book_link>
+                <id>8</id>
+                <name>Libraries</name>
+                <link>https://www.goodreads.com/book_link/follow/8</link>
+            </book_link>
+        </book_links>
+        <buy_links>
+            <buy_link>
+                <id>1</id>
+                <name>Amazon</name>
+                <link>https://www.goodreads.com/book_link/follow/1</link>
+            </buy_link>
+            <buy_link>
+                <id>10</id>
+                <name>Audible</name>
+                <link>https://www.goodreads.com/book_link/follow/10</link>
+            </buy_link>
+            <buy_link>
+                <id>3</id>
+                <name>Barnes &amp; Noble</name>
+                <link>https://www.goodreads.com/book_link/follow/3</link>
+            </buy_link>
+            <buy_link>
+                <id>1027</id>
+                <name>Walmart eBooks</name>
+                <link>https://www.goodreads.com/book_link/follow/1027</link>
+            </buy_link>
+            <buy_link>
+                <id>2102</id>
+                <name>Apple Books</name>
+                <link>https://www.goodreads.com/book_link/follow/2102</link>
+            </buy_link>
+            <buy_link>
+                <id>8036</id>
+                <name>Google Play</name>
+                <link>https://www.goodreads.com/book_link/follow/8036</link>
+            </buy_link>
+            <buy_link>
+                <id>4</id>
+                <name>Abebooks</name>
+                <link>https://www.goodreads.com/book_link/follow/4</link>
+            </buy_link>
+            <buy_link>
+                <id>882</id>
+                <name>Book Depository</name>
+                <link>https://www.goodreads.com/book_link/follow/882</link>
+            </buy_link>
+            <buy_link>
+                <id>5</id>
+                <name>Alibris</name>
+                <link>https://www.goodreads.com/book_link/follow/5</link>
+            </buy_link>
+            <buy_link>
+                <id>9</id>
+                <name>Indigo</name>
+                <link>https://www.goodreads.com/book_link/follow/9</link>
+            </buy_link>
+            <buy_link>
+                <id>107</id>
+                <name>Better World Books</name>
+                <link>https://www.goodreads.com/book_link/follow/107</link>
+            </buy_link>
+            <buy_link>
+                <id>7</id>
+                <name>IndieBound</name>
+                <link>https://www.goodreads.com/book_link/follow/7</link>
+            </buy_link>
+        </buy_links>
+        <series_works>
+            <series_work>
+                <id>933153</id>
+                <user_position>1-7</user_position>
+                <series>
+                    <id>45175</id>
+                    <title><![CDATA[
+    Harry Potter
+]]></title>
+                    <description><![CDATA[
+    Orphan Harry learns he is a wizard on his 11th birthday when Hagrid escorts him to magic-teaching Hogwarts School. As a baby, his mother's love protected him and vanquished the villain Voldemort, leaving the child famous as "The Boy who Lived". With his friends Hermione and Ron, Harry has to defeat the returned "He Who Must Not Be Named".
+]]></description>
+                    <note><![CDATA[
+    Cursed Child is NOT a Primary Work. Boxsets ARE part of the series. However, the mini-shorts are NOT books by Goodreads standards, and should neither be added to this series nor to the database.
+]]></note>
+                    <series_works_count>16</series_works_count>
+                    <primary_work_count>7</primary_work_count>
+                    <numbered>true</numbered>
+                </series>
+            </series_work>
+        </series_works>
+        <similar_books>
+            <book>
+                <id>7938275</id>
+                <title><![CDATA[The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)]]></title>
+                <title_without_series><![CDATA[The Hunger Games Trilogy Boxset]]></title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/7938275-the-hunger-games-trilogy-boxset]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360094673l/7938275._SY75_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360094673l/7938275._SX98_.jpg]]></image_url>
+                <num_pages>1155</num_pages>
+                <work>
+                    <id>11349083</id>
+                </work>
+                <isbn>0545265355</isbn>
+                <isbn13>9780545265355</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2010</publication_year>
+                <publication_month>8</publication_month>
+                <publication_day>24</publication_day>
+                <authors>
+                    <author>
+                        <id>153394</id>
+                        <name>Suzanne Collins</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>29056083</id>
+                <title><![CDATA[Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)]]></title>
+                <title_without_series><![CDATA[Harry Potter and the Cursed Child: Parts One and Two]]></title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/29056083-harry-potter-and-the-cursed-child]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470082995l/29056083._SY75_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470082995l/29056083._SX98_.jpg]]></image_url>
+                <num_pages>343</num_pages>
+                <work>
+                    <id>48765776</id>
+                </work>
+                <isbn>0751565350</isbn>
+                <isbn13>9780751565355</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2016</publication_year>
+                <publication_month>7</publication_month>
+                <publication_day>31</publication_day>
+                <authors>
+                    <author>
+                        <id>5042201</id>
+                        <name>John Tiffany</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/5042201.John_Tiffany]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>3090465</id>
+                <title><![CDATA[The Twilight Saga (Twilight, #1-4)]]></title>
+                <title_without_series>The Twilight Saga</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/3090465-the-twilight-saga]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327930511l/3090465._SX50_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327930511l/3090465._SX98_.jpg]]></image_url>
+                <num_pages>65</num_pages>
+                <work>
+                    <id>6440505</id>
+                </work>
+                <isbn>0739352350</isbn>
+                <isbn13>9780739352359</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year/>
+                <publication_month/>
+                <publication_day/>
+                <authors>
+                    <author>
+                        <id>941441</id>
+                        <name>Stephenie Meyer</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>33</id>
+                <title><![CDATA[The Lord of the Rings (The Lord of the Rings, #1-3)]]></title>
+                <title_without_series>The Lord of the Rings</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33._SX50_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33._SX98_.jpg]]></image_url>
+                <num_pages>1216</num_pages>
+                <work>
+                    <id>3462456</id>
+                </work>
+                <isbn/>
+                <isbn13/>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2005</publication_year>
+                <publication_month>10</publication_month>
+                <publication_day>12</publication_day>
+                <authors>
+                    <author>
+                        <id>656983</id>
+                        <name>J.R.R. Tolkien</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>30</id>
+                <title><![CDATA[J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings]]></title>
+                <title_without_series><![CDATA[J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings]]></title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346072396l/30._SX50_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346072396l/30._SX98_.jpg]]></image_url>
+                <num_pages>1728</num_pages>
+                <work>
+                    <id>89369</id>
+                </work>
+                <isbn>0345538374</isbn>
+                <isbn13>9780345538376</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2012</publication_year>
+                <publication_month>9</publication_month>
+                <publication_day>25</publication_day>
+                <authors>
+                    <author>
+                        <id>656983</id>
+                        <name>J.R.R. Tolkien</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>11127</id>
+                <title><![CDATA[The Chronicles of Narnia (Chronicles of Narnia, #1-7)]]></title>
+                <title_without_series>The Chronicles of Narnia</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449868701l/11127._SY75_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449868701l/11127._SX98_.jpg]]></image_url>
+                <num_pages>767</num_pages>
+                <work>
+                    <id>781271</id>
+                </work>
+                <isbn/>
+                <isbn13/>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2002</publication_year>
+                <publication_month>9</publication_month>
+                <publication_day>16</publication_day>
+                <authors>
+                    <author>
+                        <id>1069006</id>
+                        <name>C.S. Lewis</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>6443349</id>
+                <title><![CDATA[Percy Jackson and the Olympians Boxed Set (Percy Jackson and the Olympians, #1-5)]]></title>
+                <title_without_series><![CDATA[Percy Jackson and the Olympians Boxed Set]]></title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/6443349-percy-jackson-and-the-olympians-boxed-set]]></link>
+                <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+                <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+                <num_pages>1744</num_pages>
+                <work>
+                    <id>40697560</id>
+                </work>
+                <isbn>1423119509</isbn>
+                <isbn13>9781423119500</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2009</publication_year>
+                <publication_month>10</publication_month>
+                <publication_day>6</publication_day>
+                <authors>
+                    <author>
+                        <id>15872</id>
+                        <name>Rick Riordan</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>17383994</id>
+                <title><![CDATA[Divergent Series Complete Box Set (Divergent, #1-3)]]></title>
+                <title_without_series><![CDATA[Divergent Series Complete Box Set]]></title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/17383994-divergent-series-complete-box-set]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372682053l/17383994._SX50_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372682053l/17383994._SX98_.jpg]]></image_url>
+                <num_pages>1556</num_pages>
+                <work>
+                    <id>27356672</id>
+                </work>
+                <isbn>0062278789</isbn>
+                <isbn13>9780062278784</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2013</publication_year>
+                <publication_month>10</publication_month>
+                <publication_day>22</publication_day>
+                <authors>
+                    <author>
+                        <id>4039811</id>
+                        <name>Veronica Roth</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/4039811.Veronica_Roth]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>12177850</id>
+                <title><![CDATA[A Song of Ice and Fire (A Song of Ice and Fire, #1-5)]]></title>
+                <title_without_series>A Song of Ice and Fire</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/12177850-a-song-of-ice-and-fire]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339340118l/12177850._SX50_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339340118l/12177850._SX98_.jpg]]></image_url>
+                <num_pages>5216</num_pages>
+                <work>
+                    <id>21619530</id>
+                </work>
+                <isbn>1780484259</isbn>
+                <isbn13>9781780484259</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2011</publication_year>
+                <publication_month>7</publication_month>
+                <publication_day>22</publication_day>
+                <authors>
+                    <author>
+                        <id>346732</id>
+                        <name>George R.R. Martin</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>22728670</id>
+                <title><![CDATA[The Heroes of Olympus Boxed Set (The Heroes of Olympus, #1-5)]]></title>
+                <title_without_series><![CDATA[The Heroes of Olympus Boxed Set]]></title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/22728670-the-heroes-of-olympus-boxed-set]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408934813l/22728670._SX50_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408934813l/22728670._SX98_.jpg]]></image_url>
+                <num_pages>2404</num_pages>
+                <work>
+                    <id>45536364</id>
+                </work>
+                <isbn>1484720725</isbn>
+                <isbn13>9781484720721</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2014</publication_year>
+                <publication_month>10</publication_month>
+                <publication_day>7</publication_day>
+                <authors>
+                    <author>
+                        <id>15872</id>
+                        <name>Rick Riordan</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>26047067</id>
+                <title><![CDATA[Twilight Series (set of memorial version)]]></title>
+                <title_without_series>Twilight Series</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/26047067-twilight-series]]></link>
+                <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+                <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+                <num_pages/>
+                <work>
+                    <id>45976651</id>
+                </work>
+                <isbn>7544809900</isbn>
+                <isbn13/>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year/>
+                <publication_month/>
+                <publication_day/>
+                <authors>
+                    <author>
+                        <id>14202527</id>
+                        <name>si di fen ni .mei er</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/14202527.si_di_fen_ni_mei_er]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>3165162</id>
+                <title><![CDATA[Percy Jackson and the Olympians (Percy Jackson and the Olympians, #1-3)]]></title>
+                <title_without_series><![CDATA[Percy Jackson and the Olympians]]></title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/3165162-percy-jackson-and-the-olympians]]></link>
+                <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+                <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+                <num_pages>1032</num_pages>
+                <work>
+                    <id>3197005</id>
+                </work>
+                <isbn>1423113497</isbn>
+                <isbn13>9781423113492</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2008</publication_year>
+                <publication_month>9</publication_month>
+                <publication_day>16</publication_day>
+                <authors>
+                    <author>
+                        <id>15872</id>
+                        <name>Rick Riordan</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>6148028</id>
+                <title><![CDATA[Catching Fire (The Hunger Games, #2)]]></title>
+                <title_without_series>Catching Fire</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/6148028-catching-fire]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273780l/6148028._SY75_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273780l/6148028._SX98_.jpg]]></image_url>
+                <num_pages>391</num_pages>
+                <work>
+                    <id>6171458</id>
+                </work>
+                <isbn>0439023491</isbn>
+                <isbn13>9780439023498</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2009</publication_year>
+                <publication_month>9</publication_month>
+                <publication_day>1</publication_day>
+                <authors>
+                    <author>
+                        <id>153394</id>
+                        <name>Suzanne Collins</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>690926</id>
+                <title><![CDATA[The Twilight Collection (Twilight, #1-3)]]></title>
+                <title_without_series>The Twilight Collection</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/690926.The_Twilight_Collection]]></link>
+                <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+                <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+                <num_pages>1690</num_pages>
+                <work>
+                    <id>3187048</id>
+                </work>
+                <isbn>0316003727</isbn>
+                <isbn13>9780316003728</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year/>
+                <publication_month/>
+                <publication_day/>
+                <authors>
+                    <author>
+                        <id>941441</id>
+                        <name>Stephenie Meyer</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>7260188</id>
+                <title><![CDATA[Mockingjay (The Hunger Games, #3)]]></title>
+                <title_without_series>Mockingjay</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/7260188-mockingjay]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358275419l/7260188._SY75_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358275419l/7260188._SX98_.jpg]]></image_url>
+                <num_pages>390</num_pages>
+                <work>
+                    <id>8812783</id>
+                </work>
+                <isbn>0439023513</isbn>
+                <isbn13>9780439023511</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2010</publication_year>
+                <publication_month>8</publication_month>
+                <publication_day>24</publication_day>
+                <authors>
+                    <author>
+                        <id>153394</id>
+                        <name>Suzanne Collins</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>65113</id>
+                <title><![CDATA[A Series of Unfortunate Events Box: The Complete Wreck (Books 1-13)]]></title>
+                <title_without_series><![CDATA[A Series of Unfortunate Events Box: The Complete Wreck]]></title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/65113.A_Series_of_Unfortunate_Events_Box]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307655939l/65113._SY75_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307655939l/65113._SX98_.jpg]]></image_url>
+                <num_pages>324</num_pages>
+                <work>
+                    <id>2393728</id>
+                </work>
+                <isbn>0061119067</isbn>
+                <isbn13>9780061119064</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2006</publication_year>
+                <publication_month>10</publication_month>
+                <publication_day>13</publication_day>
+                <authors>
+                    <author>
+                        <id>36746</id>
+                        <name>Lemony Snicket</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/36746.Lemony_Snicket]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>10859323</id>
+                <title><![CDATA[The Inheritance Cycle (The Inheritance Cycle #1-4)]]></title>
+                <title_without_series>The Inheritance Cycle</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/10859323-the-inheritance-cycle]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577002l/10859323._SX50_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577002l/10859323._SX98_.jpg]]></image_url>
+                <num_pages/>
+                <work>
+                    <id>15774270</id>
+                </work>
+                <isbn>030793067X</isbn>
+                <isbn13>9780307930675</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year/>
+                <publication_month/>
+                <publication_day/>
+                <authors>
+                    <author>
+                        <id>8349</id>
+                        <name>Christopher Paolini</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/8349.Christopher_Paolini]]></link>
+                    </author>
+                </authors>
+            </book>
+            <book>
+                <id>20360301</id>
+                <title><![CDATA[The Maze Runner Series  (The Maze Runner #1-4)]]></title>
+                <title_without_series>The Maze Runner Series</title_without_series>
+                <link><![CDATA[https://www.goodreads.com/book/show/20360301-the-maze-runner-series]]></link>
+                <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400841794l/20360301._SX50_.jpg]]></small_image_url>
+                <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400841794l/20360301._SX98_.jpg]]></image_url>
+                <num_pages/>
+                <work>
+                    <id>28573149</id>
+                </work>
+                <isbn>0385388896</isbn>
+                <isbn13>9780385388894</isbn13>
+                <average_rating>4.74</average_rating>
+                <ratings_count>239917</ratings_count>
+                <publication_year>2010</publication_year>
+                <publication_month>11</publication_month>
+                <publication_day>10</publication_day>
+                <authors>
+                    <author>
+                        <id>348878</id>
+                        <name>James Dashner</name>
+                        <link><![CDATA[https://www.goodreads.com/author/show/348878.James_Dashner]]></link>
+                    </author>
+                </authors>
+            </book>
+        </similar_books>
+    </book>
+</GoodreadsResponse>
