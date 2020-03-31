@@ -45,6 +45,7 @@ func TestClient_GetOneBook(t *testing.T) {
 				BookID:        0,
 				BestBookID:    862041,
 				Title:         "",
+				OriginalTitle: "WHAAA",
 				ImageURL:      "",
 				SmallImageURL: "",
 				Author:        Author{},

@@ -113,6 +113,7 @@ func TestClient_GetOneSeries(t *testing.T) {
 					WorkID:        51246585,
 					BookID:        30841984,
 					Title:         "Kings of the Wyld (The Band, #1)",
+					OriginalTitle: "Kings of the Wyld",
 					ImageURL:      "https://image.jpg",
 					SmallImageURL: "",
 					Author: Author{
@@ -129,6 +130,7 @@ func TestClient_GetOneSeries(t *testing.T) {
 					WorkID:        56340013,
 					BookID:        35052265,
 					Title:         "Bloody Rose (The Band, #2)",
+					OriginalTitle: "Bloody Rose",
 					ImageURL:      "https://image2.jpg",
 					SmallImageURL: "",
 					Author: Author{
@@ -145,6 +147,7 @@ func TestClient_GetOneSeries(t *testing.T) {
 					WorkID:        52587935,
 					BookID:        31932963,
 					Title:         "Outlaw Empire (The Band, #3)",
+					OriginalTitle: "Outlaw Empire",
 					ImageURL:      "https://image3.png",
 					SmallImageURL: "",
 					Author: Author{
